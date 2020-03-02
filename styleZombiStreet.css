@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.console{
+  display: flex;
+  justify-content: center;
+  margin: 1rem;
+}
+#ecranConsole{
+  width: 600px;
+  height: 300px;
+/*  transform: rotateY(180deg);*/
+/*  background-image: url('Images/City3/sky.png');*/
+}
